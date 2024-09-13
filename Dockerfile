@@ -15,6 +15,6 @@ VOLUME /usr/local/tomcat/conf
 
 CMD /usr/local/tomcat/bin/startup.sh && tail -F /logs/catalina.out
 
-EXPOSE 80 8080
+
 
 
