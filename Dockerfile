@@ -1,4 +1,4 @@
-FROM dockerbase/java7
+FROM zhangpeihao/alpine-java6
 
 ADD apache-tomcat-6.0.24.tar.gz /tmp/apache-tomcat-6.0.24
 
